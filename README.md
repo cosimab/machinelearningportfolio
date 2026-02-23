@@ -3,5 +3,6 @@ This repository contains my portfolio submission for the Machine Learning module
 
 Grade received: 100/100 points
 
-* [`experiments.ipynb`](experiments.ipynb): The primary Jupyter Notebook containing all experiments.
-* [`portfolio_2025_sose.pdf`](portfolio_2025_sose.pdf): Official exam description detailing the tasks and evaluation criteria.
+* [`experiments.ipynb`]: The primary Jupyter Notebook containing all experiments.
+* [`portfolio_2025_sose.pdf`]: Official exam description detailing the tasks and evaluation criteria.
+* [`fetal_health.csv`]: The dataset I used, obtained from https://www.kaggle.com/datasets/andrewmvd/fetal-health-classification
